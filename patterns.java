@@ -1,6 +1,6 @@
 // Java implementation to print the
 // pattern of alphabets A to Z using *
-class Patternabc
+class Patterns
 { 
     
 // Below height and width variable can be used

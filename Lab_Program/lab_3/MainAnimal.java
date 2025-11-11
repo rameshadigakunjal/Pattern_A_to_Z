@@ -1,6 +1,4 @@
 package Lab_Program.lab_3;
-
-
 // multilevel inheritance
 class Animal{
 	void makeSound() {
@@ -20,7 +18,6 @@ class Dog extends Animal{
 	}
 }
 public class MainAnimal {
-
 	public static void main(String[] args) {
 		Animal a= new Animal();
 		//call the Animal class

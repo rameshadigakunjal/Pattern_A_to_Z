@@ -1,4 +1,4 @@
-package ExampleOfPolymorphism;
+package Polymorphism;
 
 class Plane2 {
     // Common methods inherited by all subclasses
